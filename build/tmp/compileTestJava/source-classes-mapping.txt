@@ -1,0 +1,2 @@
+com/sungmin/blog/web/HelloControllerTest.java
+ com.sungmin.blog.web.HelloControllerTest
