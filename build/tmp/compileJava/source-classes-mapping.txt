@@ -1,11 +1,18 @@
-com/sungmin/blog/web/dto/HelloResponseDto.java
- com.sungmin.blog.web.dto.HelloResponseDto
 com/sungmin/blog/web/HelloController.java
  com.sungmin.blog.web.HelloController
-com/sungmin/blog/Application.java
- com.sungmin.blog.Application
+com/sungmin/blog/service/posts/PostsService.java
+ com.sungmin.blog.service.posts.PostsService
 com/sungmin/blog/domain/posts/PostsRepository.java
  com.sungmin.blog.domain.posts.PostsRepository
+com/sungmin/blog/Application.java
+ com.sungmin.blog.Application
+com/sungmin/blog/web/dto/PostsSaveRequestDto.java
+ com.sungmin.blog.web.dto.PostsSaveRequestDto
+ com.sungmin.blog.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/sungmin/blog/domain/posts/Posts.java
  com.sungmin.blog.domain.posts.Posts
  com.sungmin.blog.domain.posts.Posts$PostsBuilder
+com/sungmin/blog/web/dto/HelloResponseDto.java
+ com.sungmin.blog.web.dto.HelloResponseDto
+com/sungmin/blog/web/PostsApiController.java
+ com.sungmin.blog.web.PostsApiController
