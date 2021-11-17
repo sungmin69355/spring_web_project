@@ -1,2 +1,6 @@
+com/sungmin/blog/web/dto/HelloResponseDtoTest.java
+ com.sungmin.blog.web.dto.HelloResponseDtoTest
+com/sungmin/blog/domain/posts/PostsRepositoryTest.java
+ com.sungmin.blog.domain.posts.PostsRepositoryTest
 com/sungmin/blog/web/HelloControllerTest.java
  com.sungmin.blog.web.HelloControllerTest

@@ -1,4 +1,4 @@
-package com.sungmin.blog.web;
+package com.sungmin.blog;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
