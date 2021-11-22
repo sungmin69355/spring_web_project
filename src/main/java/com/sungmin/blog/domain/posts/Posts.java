@@ -22,10 +22,14 @@ public class Posts {
 
     private String author;
 
-    @Builder //해당 클래스의 빌더패턴 클래스를 생
+    @Builder //해당 클래스의 빌더패턴 클래스를 생성
     public Posts(String title, String content,String author){
         this.title = title;
         this.content =content;
         this.author = author;
+    }
+    public void update(String title, String content){
+        this.title = title;
+        this.content = content;
     }
 }
