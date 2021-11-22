@@ -2,8 +2,13 @@ com/sungmin/blog/web/HelloController.java
  com.sungmin.blog.web.HelloController
 com/sungmin/blog/service/posts/PostsService.java
  com.sungmin.blog.service.posts.PostsService
+com/sungmin/blog/web/dto/PostsUpdateRequestDto.java
+ com.sungmin.blog.web.dto.PostsUpdateRequestDto
+ com.sungmin.blog.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/sungmin/blog/domain/posts/PostsRepository.java
  com.sungmin.blog.domain.posts.PostsRepository
+com/sungmin/blog/web/dto/PostsResponseDto.java
+ com.sungmin.blog.web.dto.PostsResponseDto
 com/sungmin/blog/Application.java
  com.sungmin.blog.Application
 com/sungmin/blog/web/dto/PostsSaveRequestDto.java
